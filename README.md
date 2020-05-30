@@ -83,7 +83,7 @@ windows
 
 ## 4. Initialize the Node js library
 
-for windows, you need to execute commands in PowerShell, otherwise you need to change '/' to '\\'
+for windows, you need to change '/' to '\\'
 
 ```bash
         npm install
