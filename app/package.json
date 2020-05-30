@@ -1,0 +1,22 @@
+{
+  "version": "1.3.6",
+  "license": "ISC",
+  "author": "",
+  "description": "",
+  "main": "main.js",
+  "name": "oseppBlock",
+  "devDependencies": {
+    "asar": "*",
+    "electron": "*",
+    "electron-packager": "*",
+    "electron-rebuild": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/DIYOSEPP/oseppBlock.git"
+  },
+  "dependencies": {
+    "mdns": "*",
+    "serialport": "*"
+  }
+}
