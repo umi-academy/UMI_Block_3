@@ -53,18 +53,14 @@ for linux
 
 ## 2. Get *oseppBlock* source code and *closure-library*
 
-Note: *closure-library* should be in the app directory
+Note: *closure-library* is already in the repo.
 
 ```bash
         sudo apt-get update&&sudo apt-get -y install git #only need on linux
         cd $HOME
         #for windows , you need to download and install git first
         #then execute the following command in the bash environment
-        git clone --depth 1 git://github.com/DIYOSEPP/oseppBlock.git
-        cd oseppBlock
-        git checkout master
-        cd app/
-        git clone --depth 1 git://github.com/google/closure-library.git
+        git clone https://github.com/umi-academy/UMI_Block_3
 ```
 
 ## 3. Install Compiler Dependencies
